@@ -14,6 +14,6 @@ class JadenCase {
       result+=Character.toUpperCase(word.charAt(0))+word.substring(1,word.length())+" ";
     }
 		return result.trim();
-	}
+    }
 
 }
